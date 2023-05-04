@@ -1,0 +1,23 @@
+.landingPage{
+    /* background-color:beige; */
+    width: 100vw;
+    height: 100vh;
+}
+
+.mainHead{
+    font-size: 98px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 2rem;
+}
+.mainImg{
+    padding-top: 5rem;
+    padding-left: 10rem;
+}
+.btnHead{
+    width: 250px;
+    padding-left: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

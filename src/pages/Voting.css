@@ -1,0 +1,19 @@
+.voteHeading{
+    font-size: 5rem;
+    text-align: center;
+    margin: 2rem;
+}
+
+.voteRemaing{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.voteDone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
